@@ -70,10 +70,10 @@ O sistema busca centralizar essas informações, tornando a comunicação mais r
 ---
 
 ## 👨‍💻 Equipe de Desenvolvimento  
-- jesualdo brandão dias
-- lucas gabriel
-- matheus paschuinio
-- Pedro paulo goncalves 
+- jesualdo brandão dias (https://www.linkedin.com/in/jesualdo-brand%C3%A3o-dias-j%C3%BAnior-68a61865/)
+- lucas gabriel (https://www.linkedin.com/in/lucas-gabriel-de-paula-pinto-065734241/)
+- matheus paschuinio (https://www.linkedin.com/in/matheus-paschuinio-7630aa336/)
+- Pedro paulo goncalves ( https://www.linkedin.com/in/pedro-paulo-00114a256/)
 
 ---
 
