@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="logo.escolink.png" alt="Logo Escolink" width="400"/>
+</p>
+
+
+
+
 # 📘 Escolink
 
 Plataforma para gestão escolar integrada
@@ -48,8 +55,8 @@ O sistema busca centralizar essas informações, tornando a comunicação mais r
 
 ### 4. Tecnologias utilizadas  
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS  
-- **Backend:** Node.js / Express  
-- **Banco de Dados:** MySQL ou PostgreSQL  
+- **Backend:** Node.js   
+- **Banco de Dados:** MySQL 
 - **Versionamento:** Git/GitHub  
 
 ---
@@ -63,10 +70,12 @@ O sistema busca centralizar essas informações, tornando a comunicação mais r
 ---
 
 ## 👨‍💻 Equipe de Desenvolvimento  
-- Pedro Paulo  
-- [Coloque aqui os outros membros]  
+- jesualdo brandão dias
+- lucas gabriel
+- matheus paschuinio
+- Pedro paulo goncalves 
 
 ---
 
 ## 📌 Status do Projeto  
-🚧 Em desenvolvimento – 1º semestre de 2025
+🚧 Em desenvolvimento – 2º semestre de 2025
